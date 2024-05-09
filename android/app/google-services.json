@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648133712256",
+    "project_id": "jarvis-fab5d",
+    "storage_bucket": "jarvis-fab5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648133712256:android:7994c89ee4403795530965",
+        "android_client_info": {
+          "package_name": "com.puzvawtide.firebase.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648133712256-mnj6c6dl263hojgcvum8upg166aaeu6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD139Ux6L3_stA7r45rxIim270cRVHb9Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648133712256-mnj6c6dl263hojgcvum8upg166aaeu6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
